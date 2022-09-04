@@ -1,5 +1,5 @@
 # Terrain Project
-Terrain graphics project for CS-341 at EPFL, where we created an infinitely generating terrain using OpenGL.
+An infinitely generating terrain using OpenGL, that we decided to create for the scope of the *CS-341: Introduction to computer graphics* at EPFL.
 
 Please look at the `final_report.md` for more details about our work
 
