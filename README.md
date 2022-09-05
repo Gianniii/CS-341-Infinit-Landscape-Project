@@ -4,4 +4,4 @@ An infinitely generating terrain using OpenGL, that we decided to create for the
 Please look at the `final_report.md` for more details about our work
 
 
-video of our terrain: **https://drive.google.com/file/d/1du12xaTb_DFdLwRAYS6WGAZhnCXChY3K/view**
+final video presentation of our terrain: **https://drive.google.com/file/d/1du12xaTb_DFdLwRAYS6WGAZhnCXChY3K/view**
